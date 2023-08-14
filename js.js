@@ -20,6 +20,7 @@ function aceitar(){
 
     let contrato = document.getElementById('contrato')
 
+    contrato.style.display = 'none'
     contrato.style.right = '15%'
 
     box.style.opacity = '1'
