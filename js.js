@@ -12,7 +12,7 @@ let cbtn = document.getElementById('close-screen')
 
     cbtn.addEventListener('click', ()=>{
 
-        msg.style.marginTop ='-250%'
+        msg.style.marginTop ='-300%'
 
     })
 
